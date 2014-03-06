@@ -1,0 +1,35 @@
+.columns {
+	border: 0px dashed #9999cc;
+}
+
+button.success, .button.success {
+	background-color: #A0522D;
+	border-color: #CD853F;
+	color: #FFFFFF;
+}
+
+button.success:hover, 
+.button.success:hover, 
+button.success:focus, 
+.button.success:focus {
+	background-color: #8B4513;
+}
+
+/*
+.breadcrumbs a {
+	text-transform: capitalize;
+}
+*/
+
+#topnav {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.clearing-thumbs { 
+	list-style: none; 
+}
+
+.clearing-thumbs li { 
+	float: left; margin-right: 10px; 
+}
